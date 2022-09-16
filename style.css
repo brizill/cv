@@ -1,0 +1,131 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+}
+
+.intro {
+    background-color: bisque;
+   
+}
+.name{
+    font-family: 'Lobster Two', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: hotpink;
+}
+.yogurt{
+    position: absolute;
+    top: 70px;
+    right: 0px;
+}
+.lollipop{
+    position: absolute;
+    top: 70px;
+    left: 0px;
+}
+.me{
+    border: 10px;
+    border-style: groove;
+}
+.divide{
+    border-width: 10px;
+}
+.thermo{
+    color: red;
+    text-decoration: none;
+}
+.thermo:hover{
+    color: rebeccapurple;
+}
+.aboutMe {
+    background-color: aquamarine;
+    font-family: 'Kalam', cursive;
+    padding: 20px;
+
+}
+.mySkills{
+    text-align: center;
+}
+.laptop{
+    display: inline-block;
+    width: 13%;
+    text-align: right;
+    padding-bottom: 40px;
+}
+.languages{
+    width: 85%;
+    text-align: left;
+    float: right;
+    
+}
+.desk{
+    display: inline-block;
+    width: 13%;
+    text-align: right;
+    padding-bottom: 40px;
+}
+.work{
+    width: 85%;
+    text-align: left;
+    float: right;
+}
+.skillList{
+    display: inline-block;
+    width: 13%;
+    text-align: right;
+    padding-bottom: 40px;
+}
+.skills{
+    width: 85%;
+    text-align: left;
+    float: right;
+}
+.contact{
+    color: rosybrown;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+.contact:hover{
+    color: black;
+}
+.contactMe{
+    background-color: bisque;
+}
+.end {
+    background-color: bisque;
+    border: 10px;
+    border-style: dashed;
+    border-color: aquamarine;
+}
+.candy{
+    position: absolute;
+    right: 0px;
+    top: 80px;
+}
+.copy{
+    text-align: center;
+}
+.title{
+    font-family: 'Lobster Two', cursive;
+    font-size: 80px;
+    text-align: left;
+    color: hotpink;
+}
+.final{
+    border-width: 10px;
+}
+.body2{
+    background-color: aquamarine;
+}
+.one{
+    display: inline-block;
+    width: 4%;
+    text-align: left;
+    padding-bottom: 40px;
+}
+.two{
+    width: 96%;
+    text-align: left;
+    float: right;
+}
